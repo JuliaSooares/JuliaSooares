@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao Meu Universo Criativo 🌟
 
-https://www.canva.com/design/DAGVik0nMPY/Egn7Z4DnD6nyCM5ozSMggQ/view?utm_content=DAGVik0nMPY&utm_campaign=designshare&utm_medium=link&utm_source=editor
+![quem sou eu](https://www.canva.com/design/DAGVik0nMPY/_SSVG6R2OUWtn0UgXQsaPg/edit?utm_content=DAGVik0nMPY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <!-- Substitua pela URL da imagem -->
 
 ## 👋 Sobre Mim
 Olá! Sou Julia Soares, uma apaixonada por design de interiores sustentável e inovação em processos. Meu objetivo é transformar espaços e experiências através de soluções criativas e responsáveis.
@@ -30,7 +30,7 @@ Sou estudante de **Gestão de Processos Industriais** na FATEC, onde estou aprof
 ![Design Sustentável](https://www.ugreen.com.br/wp-content/uploads/2018/06/interiores-sustentaveis.png) <!-- Substitua pela URL da imagem -->
 
 ### Supervisão e Gestão
-![Supervisão]([https://via.placeholder.com/400x300.png?text=Imagem+de+Supervis%C3%A3o](https://www.canva.com/design/DAGVi3wKyyo/Uee9wQxZJ7LLCSYtj2YYJQ/view?utm_content=DAGVi3wKyyo&utm_campaign=designshare&utm_medium=link&utm_source=editor)) <!-- Substitua pela URL da imagem -->
+![Supervisora](https://www.canva.com/design/DAGVi3wKyyo/Uee9wQxZJ7LLCSYtj2YYJQ/view?utm_content=DAGVi3wKyyo&utm_campaign=designshare&utm_medium=link&utm_source=editor) <!-- Substitua pela URL da imagem -->
 
 ### Estudos na FATEC
-![Estudos]([https://via.placeholder.com/400x300.png?text=Imagem+de+Estudos](https://gpi.fatecjahu.edu.br/wp-content/uploads/2023/01/LogoGPI-removebg-preview.png)) <!-- Substitua pela URL da imagem -->
+![Estudos]([https://via.placeholder.com/400x300.png?text=Imagem+de+Estudos](https://gpi.fatecjahu.edu.br/wp-content/uploads/2023/01/LogoGPI-removebg-preview.png) <!-- Substitua pela URL da imagem -->

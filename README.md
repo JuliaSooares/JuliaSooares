@@ -33,7 +33,10 @@ Sou estudante de **Gestão de Processos Industriais** na FATEC, onde estou aprof
 ![Design Sustentável](https://www.ugreen.com.br/wp-content/uploads/2018/06/interiores-sustentaveis.png) <!-- Substitua pela URL da imagem -->
 
 ### Supervisão e Gestão
-![Profissão](https://www.canva.com/design/DAGVi3wKyyo/Uee9wQxZJ7LLCSYtj2YYJQ/view?utm_content=DAGVi3wKyyo&utm_campaign=designshare&utm_medium=link&utm_source=editor) <!-- Substitua pela URL da imagem -->
+
+![image](https://github.com/user-attachments/assets/b07346f4-fbce-449e-8020-abecc3e62259)
+
 
 ### Estudos na FATEC
-![Estudos]([https://via.placeholder.com/400x300.png?text=Imagem+de+Estudos](https://gpi.fatecjahu.edu.br/wp-content/uploads/2023/01/LogoGPI-removebg-preview.png) <!-- Substitua pela URL da imagem -->
+(https://gpi.fatecjahu.edu.br/wp-content/uploads/2023/01/LogoGPI-removebg-preview.png)
+

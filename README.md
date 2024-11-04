@@ -38,5 +38,6 @@ Sou estudante de **Gestão de Processos Industriais** na FATEC, onde estou aprof
 
 
 ### Estudos na FATEC
-(https://gpi.fatecjahu.edu.br/wp-content/uploads/2023/01/LogoGPI-removebg-preview.png)
+![image](https://github.com/user-attachments/assets/1873ae12-3cad-4100-b5d1-cc8f8c3c0b40)
+
 
